@@ -1,6 +1,6 @@
-### Hi there 👋🤷🏼‍♂️
+### Hi there 👋
 
-you should visit my website 👨🏼‍💻[martinschneider.me](https://martinschneider.me)
+you should visit my website 👨🏼‍💻 [martinschneider.me](https://martinschneider.me) 🤷🏼‍♂️
 
 <!--
 **schneyra/schneyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
