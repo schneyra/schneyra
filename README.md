@@ -12,3 +12,5 @@ You should visit my website 👨🏼‍💻 [martinschneider.me](https://martins
 - [Testing My Eleventy-Website With Cypress and Netlify](https://martinschneider.me/articles/testing-my-eleventy-website-with-cypress-and-netlify/)
 - [Goodbye Sapper, hello Eleventy!](https://martinschneider.me/articles/goodbye-sapper-hello-eleventy/)
 <!-- BLOG-POST-LIST:END -->
+
+(The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
