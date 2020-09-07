@@ -11,4 +11,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "MSME-POST-LIST"
           feed_list: "https://martinschneider.me/articles/feed.xml"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "DTUI-POST-LIST"
+          feed_list: "https://www.dertagundich.de/feed/"
