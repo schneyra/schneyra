@@ -4,7 +4,7 @@ My name is Martin! I'm a frontend developer, father and boyfriend, hobby photogr
 
 You should visit my website 👨🏼‍💻 [martinschneider.me](https://martinschneider.me) and take a look at my blog [dertagundich.de](https://www.dertagundich.de)
 
-# Posts I've written recently
+# Posts I've written recently on martinschneider.me
 <!-- BLOG-POST-LIST:START -->
 - [Building a Blog With 11ty and WordPress](https://martinschneider.me/articles/building-a-website-with-11ty-and-wordpress/)
 - [Firefox Is Shortening Long Attributes in It&#8217;s Developer Tools](https://martinschneider.me/articles/firefox-is-shortening-long-attributes-in-its-developer-tools/)
