@@ -15,11 +15,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
-- [Building a Blog With 11ty and WordPress](https://martinschneider.me/articles/building-a-website-with-11ty-and-wordpress/)
-- [Firefox Is Shortening Long Attributes in It&#8217;s Developer Tools](https://martinschneider.me/articles/firefox-is-shortening-long-attributes-in-its-developer-tools/)
-- [A Simple Blogroll for My Website](https://martinschneider.me/articles/a-simple-blogroll-for-my-website/)
-- [Testing My Eleventy-Website With Cypress and Netlify](https://martinschneider.me/articles/testing-my-eleventy-website-with-cypress-and-netlify/)
-- [Goodbye Sapper, hello Eleventy!](https://martinschneider.me/articles/goodbye-sapper-hello-eleventy/)
+- [Von letzten und ersten Arbeitstagen und ein wenig Inneneinrichtung](https://www.dertagundich.de/2020/09/06/von-letzten-und-ersten-arbeitstagen-und-ein-wenig-inneneinrichtung/)
+- [Von einem Kindergeburtstag einer Kündigung und Ausflügen](https://www.dertagundich.de/2020/08/30/von-einem-kindergeburtstag-einer-kuendigung-und-ausfluegen/)
+- [Ausflug auf den Rodderberg](https://www.dertagundich.de/2020/08/23/ausflug-auf-den-rodderberg/)
+- [Von zwei Corona-Tests](https://www.dertagundich.de/2020/08/16/von-zwei-corona-tests/)
+- [The Old Guard](https://www.dertagundich.de/2020/08/04/the-old-guard/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
