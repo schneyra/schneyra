@@ -1,8 +1,8 @@
-### Hi there 👋  🤷🏼‍♂️
+# Hi, my name is Martin! 👋 
 
-My name is Martin! I'm a frontend developer, father and boyfriend, hobby photographer, avid reader, music lover, long-time blogger and lifelong scout.
+I'm a frontend developer, father and boyfriend, hobby photographer, avid reader, music lover, long-time blogger and lifelong scout.
 
-You should visit my website 👨🏼‍💻 [martinschneider.me](https://martinschneider.me) and take a look at my blog [dertagundich.de](https://www.dertagundich.de)
+You should visit my website 👨🏼‍💻  [martinschneider.me](https://martinschneider.me) and take a look at my blog 🤷🏼‍♂️ [dertagundich.de](https://www.dertagundich.de)
 
 # Posts I've written recently on martinschneider.me
 <!-- BLOG-POST-LIST:START -->
