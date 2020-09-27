@@ -15,11 +15,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einer belanglosen Woche und einer Wahl](https://www.dertagundich.de/2020/09/27/von-einer-belanglosen-woche-und-einer-wahl/)
 - [Von einem zusammengebauten Schreibtisch und zu wenig Schlaf](https://www.dertagundich.de/2020/09/20/von-einem-zusammengebauten-schreibtisch-und-zu-wenig-schlaf/)
 - [Von einer sturmfreien Woche und einem ereignisreichen Wochenende](https://www.dertagundich.de/2020/09/13/von-einer-sturmfreien-woche-und-einem-ereignisreichen-wochenende/)
 - [Von letzten und ersten Arbeitstagen und ein wenig Inneneinrichtung](https://www.dertagundich.de/2020/09/06/von-letzten-und-ersten-arbeitstagen-und-ein-wenig-inneneinrichtung/)
 - [Von einem Kindergeburtstag einer Kündigung und Ausflügen](https://www.dertagundich.de/2020/08/30/von-einem-kindergeburtstag-einer-kuendigung-und-ausfluegen/)
-- [Ausflug auf den Rodderberg](https://www.dertagundich.de/2020/08/23/ausflug-auf-den-rodderberg/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
