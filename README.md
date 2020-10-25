@@ -15,11 +15,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von Telefon-Experimenten und Ausmistereien](https://www.dertagundich.de/2020/10/25/von-telefon-experimenten-und-ausmistereien/)
 - [Von keinen besonderen Vorkommnissen](https://www.dertagundich.de/2020/10/18/von-keinen-besonderen-vorkommnissen/)
 - [Von ganz normalem Alltag und Corona-Geschwurbel](https://www.dertagundich.de/2020/10/11/von-ganz-normalem-alltag-und-corona-geschwurbel/)
 - [Einmal rund um Monschau](https://www.dertagundich.de/2020/10/04/einmal-rund-um-monschau/)
 - [Von einer belanglosen Woche und einer Wahl](https://www.dertagundich.de/2020/09/27/von-einer-belanglosen-woche-und-einer-wahl/)
-- [Von einem zusammengebauten Schreibtisch und zu wenig Schlaf](https://www.dertagundich.de/2020/09/20/von-einem-zusammengebauten-schreibtisch-und-zu-wenig-schlaf/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
