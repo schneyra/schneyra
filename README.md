@@ -15,11 +15,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Ein guter Tag](https://www.dertagundich.de/2021/01/17/ein-guter-tag/)
 - [Geschichten aus der Geschichte](https://www.dertagundich.de/2021/01/10/geschichten-aus-der-geschichte/)
 - [Zwanzig, einundzwanzig](https://www.dertagundich.de/2021/01/03/zwanzig-einundzwanzig/)
 - [24 – Vierzehn Jahre später](https://www.dertagundich.de/2020/12/25/24-vierzehn-jahre-spaeter/)
 - [Von Lieferschwierigkeiten](https://www.dertagundich.de/2020/12/20/von-lieferschwierigkeiten/)
-- [Wie ich einen Wäschetrockner bestellte](https://www.dertagundich.de/2020/12/11/wie-ich-mal-einen-waeschetrockner-bestellte/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
