@@ -15,11 +15,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [WebStories](https://www.dertagundich.de/2021/02/06/webstories/)
 - [Von einem kaputten iPhone-Display](https://www.dertagundich.de/2021/02/02/von-einem-kaputten-iphone-display/)
 - [Red Sparrow](https://www.dertagundich.de/2021/01/31/red-sparrow/)
 - [324 Tage](https://www.dertagundich.de/2021/01/28/324-tage/)
 - [LEGO Bonsai](https://www.dertagundich.de/2021/01/24/lego-bonsai/)
-- [Ein guter Tag](https://www.dertagundich.de/2021/01/17/ein-guter-tag/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
