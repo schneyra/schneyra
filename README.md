@@ -15,11 +15,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Daft Punk, RIP](https://www.dertagundich.de/2021/02/27/daft-punk/)
 - [Alan Turing: Little People, Big Dreams](https://www.dertagundich.de/2021/02/21/alan-turing-little-people-big-dreams/)
 - [Brooklyn Nine-Nine](https://www.dertagundich.de/2021/02/14/brooklyn-nine-nine/)
 - [WebStories](https://www.dertagundich.de/2021/02/06/webstories/)
 - [Von einem kaputten iPhone-Display](https://www.dertagundich.de/2021/02/02/von-einem-kaputten-iphone-display/)
-- [Red Sparrow](https://www.dertagundich.de/2021/01/31/red-sparrow/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
