@@ -6,11 +6,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## Posts I've written recently on martinschneider.me
 <!-- MSME-POST-LIST:START -->
+- [OG Images with the Eleventy Image Plugin](https://martinschneider.me/articles/og-images-with-the-eleventy-image-plugin/)
 - [Using the Eleventy Image Plugin to Generate Images](https://martinschneider.me/articles/switching-to-eleventy-img-to-generate-images/)
 - [Goodbye 2020! &#x1f942; Hello 2021!](https://martinschneider.me/articles/goodbye-2020-hello-2021/)
 - [Building a Blog With 11ty and WordPress](https://martinschneider.me/articles/building-a-website-with-11ty-and-wordpress/)
 - [Firefox Is Shortening Long Attributes in It&#8217;s Developer Tools](https://martinschneider.me/articles/firefox-is-shortening-long-attributes-in-its-developer-tools/)
-- [A Simple Blogroll for My Website](https://martinschneider.me/articles/a-simple-blogroll-for-my-website/)
 <!-- MSME-POST-LIST:END -->
 
 ## The latest posts on dertagundich.de
