@@ -15,11 +15,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Daniel Suarez: Daemon](https://www.dertagundich.de/2021/06/07/daniel-suarez-daemon/)
 - [Ausnahmezustand](https://www.dertagundich.de/2021/06/06/ausnahmezustand/)
 - [Star Trek: Discovery, Staffel drei](https://www.dertagundich.de/2021/05/31/star-trek-discovery-staffel-drei/)
 - [„Eins-sieben ist zerstört“](https://www.dertagundich.de/2021/05/27/eins-sieben-ist-zerstoert/)
 - [Unlocked](https://www.dertagundich.de/2021/05/23/unlocked/)
-- [Jack Reacher: Kein Weg zurück](https://www.dertagundich.de/2021/05/22/jack-reacher-kein-weg-zurueck/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
