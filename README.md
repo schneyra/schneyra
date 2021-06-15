@@ -15,11 +15,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [John Wick, Kapitel eins und zwei](https://www.dertagundich.de/2021/06/15/john-wick-kapitel-eins-und-zwei/)
 - [Spritze zwei](https://www.dertagundich.de/2021/06/14/spritze-zwei/)
 - [Körperschaftssteuer](https://www.dertagundich.de/2021/06/10/koerperschaftssteuer/)
 - [Daniel Suarez: Daemon](https://www.dertagundich.de/2021/06/07/daniel-suarez-daemon/)
 - [Ausnahmezustand](https://www.dertagundich.de/2021/06/06/ausnahmezustand/)
-- [Star Trek: Discovery, Staffel drei](https://www.dertagundich.de/2021/05/31/star-trek-discovery-staffel-drei/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
