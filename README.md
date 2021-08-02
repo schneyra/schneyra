@@ -1,5 +1,5 @@
 # Hi, my name is Martin! 👋 
-You should visit my website 👨🏼‍💻  [martinschneider.me](https://martinschneider.me) and take a look at my blog 🤷🏼‍♂️ [dertagundich.de](https://www.dertagundich.de)
+You should visit my website 👨🏼‍💻  [martinschneider.me](https://martinschneider.me) and take a look at my blog 🤷🏼‍♂️ [dertagundich.de](https://www.dertagundich.de).
 
 ## Posts I've written recently on martinschneider.me
 <!-- MSME-POST-LIST:START -->
