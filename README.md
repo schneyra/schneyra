@@ -12,7 +12,7 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
-- [Naturpark Hohes Venn-Eifel](https://www.dertagundich.de/2021/08/19/naturpark-hohes-venn-eifel/)
+- [Naturpark Hohes Venn](https://www.dertagundich.de/2021/08/19/naturpark-hohes-venn-eifel/)
 - [Star Trek: Into Darkness](https://www.dertagundich.de/2021/08/18/star-trek-into-darkness/)
 - [Herr Max freut sich](https://www.dertagundich.de/2021/08/17/herr-max-freut-sich/)
 - [Niederbachem](https://www.dertagundich.de/2021/08/15/niederbachem/)
