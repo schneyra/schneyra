@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Spider-Man: Homecoming](https://www.dertagundich.de/2021/08/30/spider-man-homecoming/)
 - [Unfreiwillig freie Sicht](https://www.dertagundich.de/2021/08/28/unfreiwillig-freie-sicht/)
 - [Colin Forbes: Abgrund](https://www.dertagundich.de/2021/08/26/colin-forbes-abgrund/)
 - [Norden, Osten, Süden, Westen](https://www.dertagundich.de/2021/08/25/norden-osten-sueden-westen/)
 - [Star Trek Beyond](https://www.dertagundich.de/2021/08/23/star-trek-beyond/)
-- [Naturpark Hohes Venn](https://www.dertagundich.de/2021/08/19/naturpark-hohes-venn-eifel/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
