@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Spider-Man: Far From Home](https://www.dertagundich.de/2021/09/05/spider-man-far-from-home/)
 - [Zwanzig ruhige Minuten](https://www.dertagundich.de/2021/09/05/zwanzig-ruhige-minuten/)
 - [Spider-Man: Homecoming](https://www.dertagundich.de/2021/08/30/spider-man-homecoming/)
 - [Unfreiwillig freie Sicht](https://www.dertagundich.de/2021/08/28/unfreiwillig-freie-sicht/)
 - [Colin Forbes: Abgrund](https://www.dertagundich.de/2021/08/26/colin-forbes-abgrund/)
-- [Norden, Osten, Süden, Westen](https://www.dertagundich.de/2021/08/25/norden-osten-sueden-westen/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
