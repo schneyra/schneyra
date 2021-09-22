@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [David Ignatius: Der Deal](https://www.dertagundich.de/2021/09/22/david-ignatius-der-deal/)
 - [Assasin’s Creed](https://www.dertagundich.de/2021/09/18/assasins-creed/)
 - [Die Sache mit dem Monitor](https://www.dertagundich.de/2021/09/15/die-sache-mit-dem-monitor/)
 - [Matrix](https://www.dertagundich.de/2021/09/13/matrix/)
 - [Archiv-Diagramme](https://www.dertagundich.de/2021/09/12/archiv-diagramme/)
-- [Jay Bonansinga: Hurricane](https://www.dertagundich.de/2021/09/11/jay-bonansinga-hurricane/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
