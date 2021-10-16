@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Urlaub in Carolinensiel](https://www.dertagundich.de/2021/10/16/urlaub-in-carolinensiel/)
 - [Raymond Khoury: Scriptum](https://www.dertagundich.de/2021/10/16/raymond-khoury-scriptum/)
 - [Killers Bodyguard](https://www.dertagundich.de/2021/10/14/killers-bodyguard/)
 - [Ein Baum und ein iPhone](https://www.dertagundich.de/2021/10/07/ein-baum-und-ein-iphone/)
 - [Tom Martin: Der Sirius-Schatten](https://www.dertagundich.de/2021/09/29/tom-martin-der-sirius-schatten/)
-- [David Ignatius: Der Deal](https://www.dertagundich.de/2021/09/22/david-ignatius-der-deal/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
