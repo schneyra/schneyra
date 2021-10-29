@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Knives Out](https://www.dertagundich.de/2021/10/29/knives-out/)
 - [Burg Eltz und Burg Pyrmont – Ein Wochenende in der Eifel](https://www.dertagundich.de/2021/10/28/burg-eltz-und-burg-pyrmont-ein-wochenende-in-der-eifel/)
 - [Max Landorff – Der Regler](https://www.dertagundich.de/2021/10/22/max-landorff-der-regler/)
 - [Urlaub in Carolinensiel](https://www.dertagundich.de/2021/10/16/urlaub-in-carolinensiel/)
 - [Raymond Khoury: Scriptum](https://www.dertagundich.de/2021/10/16/raymond-khoury-scriptum/)
-- [Killers Bodyguard](https://www.dertagundich.de/2021/10/14/killers-bodyguard/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
