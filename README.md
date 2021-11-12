@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Red Notice](https://www.dertagundich.de/2021/11/12/red-notice/)
 - [Philip Kerr – Das Janus-Projekt](https://www.dertagundich.de/2021/11/08/philip-kerr-das-janus-projekt/)
 - [Boss Level](https://www.dertagundich.de/2021/11/07/boss-level/)
 - [Der Anschlag](https://www.dertagundich.de/2021/10/31/der-anschlag/)
 - [Raymond Khoury: Dogma](https://www.dertagundich.de/2021/10/30/raymond-khoury-dogma/)
-- [Knives Out](https://www.dertagundich.de/2021/10/29/knives-out/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
