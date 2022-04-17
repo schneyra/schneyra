@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Andrew Britton: Der Amerikaner](https://www.dertagundich.de/2022/04/17/andrew-britton-der-amerikaner/)
 - [Adam Fawer: Gnosis](https://www.dertagundich.de/2022/04/10/adam-fawer-gnosis/)
 - [Martijn Doolaard](https://www.dertagundich.de/2022/04/03/martijn-doolaard/)
 - [Robert Harris: Vaterland](https://www.dertagundich.de/2022/03/27/robert-harris-vaterland/)
 - [Operation Schwarze Krabbe](https://www.dertagundich.de/2022/03/20/operation-schwarze-krabbe/)
-- [Christine Kerdellant &amp; Éric Meyer: Die Versailles-Verschwörung](https://www.dertagundich.de/2022/03/20/christine-kerdellant-eric-meyer-die-versailles-verschwoerung/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
