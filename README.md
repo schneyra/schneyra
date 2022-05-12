@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Secret City](https://www.dertagundich.de/2022/05/12/secret-city/)
 - [Von Kreisen in der Sahara](https://www.dertagundich.de/2022/05/10/von-kreisen-in-der-sahara/)
 - [Good bye, Nine-nine!](https://www.dertagundich.de/2022/05/08/good-bye-nine-nine/)
 - [Marc Kayser: Trias](https://www.dertagundich.de/2022/05/01/marc-kayser-trias/)
 - [L.A.’s Finest](https://www.dertagundich.de/2022/04/24/l-a-s-finest/)
-- [Andrew Britton: Der Amerikaner](https://www.dertagundich.de/2022/04/17/andrew-britton-der-amerikaner/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
