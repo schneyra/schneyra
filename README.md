@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [FRITZ!Repeater in Reihe schalten](https://www.dertagundich.de/2022/05/31/fritzrepeater-in-reihe-schalten/)
 - [Killer’s Bodyguard 2](https://www.dertagundich.de/2022/05/29/killers-bodyguard-2/)
 - [Warmes Wasser](https://www.dertagundich.de/2022/05/22/warmes-wasser/)
 - [Secret City](https://www.dertagundich.de/2022/05/12/secret-city/)
 - [Von Kreisen in der Sahara](https://www.dertagundich.de/2022/05/10/von-kreisen-in-der-sahara/)
-- [Good bye, Nine-nine!](https://www.dertagundich.de/2022/05/08/good-bye-nine-nine/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
