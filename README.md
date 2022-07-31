@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Tom Clancy: Die Macht des Präsidenten](https://www.dertagundich.de/2022/07/31/tom-clancy-die-macht-des-praesidenten/)
 - [Die Sache mit den Schlüsseln](https://www.dertagundich.de/2022/07/24/die-sache-mit-den-schluesseln/)
 - [Tom Clancy: Red Rabbit](https://www.dertagundich.de/2022/07/17/tom-clancy-red-rabbit/)
 - [Tom Clancy: Im Sturm](https://www.dertagundich.de/2022/07/04/tom-clancy-im-sturm-2/)
 - [Reece Hirsch: Der Informant](https://www.dertagundich.de/2022/06/27/reece-hirsch-der-informant/)
-- [Secret City: Under the Eagle](https://www.dertagundich.de/2022/06/20/secret-city-under-the-eagle/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
