@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Der vierte Pieks](https://www.dertagundich.de/2022/08/16/der-vierte-pieks/)
 - [The Protégé](https://www.dertagundich.de/2022/08/14/the-protege/)
 - [The Gray Men](https://www.dertagundich.de/2022/08/07/the-gray-men/)
 - [Tom Clancy: Die Macht des Präsidenten](https://www.dertagundich.de/2022/07/31/tom-clancy-die-macht-des-praesidenten/)
 - [Die Sache mit den Schlüsseln](https://www.dertagundich.de/2022/07/24/die-sache-mit-den-schluesseln/)
-- [Tom Clancy: Red Rabbit](https://www.dertagundich.de/2022/07/17/tom-clancy-red-rabbit/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
