@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Tom Clancy: Im Visier des Feindes](https://www.dertagundich.de/2022/09/18/tom-clancy-im-visier-des-feindes/)
 - [Bauschutt](https://www.dertagundich.de/2022/09/10/bauschutt/)
 - [Tom Clancy: Letzte Entscheidung](https://www.dertagundich.de/2022/09/04/tom-clancy-letzte-entscheidung/)
 - [Mark Dawson: Der Cleaner](https://www.dertagundich.de/2022/08/28/mark-dawson-der-cleaner/)
 - [Der vierte Pieks](https://www.dertagundich.de/2022/08/16/der-vierte-pieks/)
-- [The Protégé](https://www.dertagundich.de/2022/08/14/the-protege/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
