@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Tom Clancy: Im Zeichen des Drachen](https://www.dertagundich.de/2022/10/09/tom-clancy-im-zeichen-des-drachen/)
 - [Fußleisten](https://www.dertagundich.de/2022/10/02/fussleisten/)
 - [Tom Clancy: Pflicht und Ehre](https://www.dertagundich.de/2022/09/25/tom-clancy-pflicht-und-ehre/)
 - [Tom Clancy: Im Visier des Feindes](https://www.dertagundich.de/2022/09/18/tom-clancy-im-visier-des-feindes/)
 - [Bauschutt](https://www.dertagundich.de/2022/09/10/bauschutt/)
-- [Tom Clancy: Letzte Entscheidung](https://www.dertagundich.de/2022/09/04/tom-clancy-letzte-entscheidung/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
