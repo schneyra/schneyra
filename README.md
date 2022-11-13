@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Pfadfinderwochenende](https://www.dertagundich.de/2022/11/13/pfadfinderwochenende/)
 - [Erlebnispfad „Zeitsprung“ in Berghausen](https://www.dertagundich.de/2022/11/06/erlebnispfad-zeitsprung-in-berghausen/)
 - [Der Zaun und das Efeu](https://www.dertagundich.de/2022/10/30/der-zaun-und-das-efeu/)
 - [Martin ist krank](https://www.dertagundich.de/2022/10/23/martin-ist-krank/)
 - [Das Gartenhaus](https://www.dertagundich.de/2022/10/16/das-gartenhaus/)
-- [Tom Clancy: Im Zeichen des Drachen](https://www.dertagundich.de/2022/10/09/tom-clancy-im-zeichen-des-drachen/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
