@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einer Corona-Infektion](https://www.dertagundich.de/2023/01/08/von-einer-corona-infektion/)
 - [Zweiundzwanzig, dreiundzwanzig](https://www.dertagundich.de/2023/01/06/zweiundzwanzig-dreiundzwanzig/)
 - [Hawkeye](https://www.dertagundich.de/2023/01/01/hawkeye/)
 - [The Losers](https://www.dertagundich.de/2022/12/28/the-losers/)
 - [Weihnachten](https://www.dertagundich.de/2022/12/25/weihnachten-2/)
-- [Der Weihnachtsbaum mit dem kurzen Weg](https://www.dertagundich.de/2022/12/18/der-weihnachtsbaum-mit-dem-kurzen-weg/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
