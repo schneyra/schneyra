@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von Schneefall, Kirby und Nordflügel-Renovierungen](https://www.dertagundich.de/2023/01/22/von-schneefall-kirby-und-nordfluegel-renovierungen/)
+- [Miley Cyrus – Flowers](https://www.dertagundich.de/2023/01/20/17530/)
 - [Von einer ersten Arbeitswoche, Heizungsbauern und einer Sauna](https://www.dertagundich.de/2023/01/15/von-einer-ersten-arbeitswoche-heizungsbauern-und-einer-sauna/)
 - [Von einer Corona-Infektion](https://www.dertagundich.de/2023/01/08/von-einer-corona-infektion/)
 - [Zweiundzwanzig, dreiundzwanzig](https://www.dertagundich.de/2023/01/06/zweiundzwanzig-dreiundzwanzig/)
-- [Hawkeye](https://www.dertagundich.de/2023/01/01/hawkeye/)
-- [The Losers](https://www.dertagundich.de/2022/12/28/the-losers/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
