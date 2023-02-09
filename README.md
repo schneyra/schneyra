@@ -3,11 +3,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## Posts I've written recently on martinschneider.me
 <!-- MSME-POST-LIST:START -->
+- [New Year, new Eleventy](https://martinschneider.me/articles/new-year-new-eleventy/)
 - [Multi-Line Padded Text and box-decoration-break](https://martinschneider.me/articles/multi-line-padded-text-and-box-decoration-break/)
 - [Tinkering with Web Components](https://martinschneider.me/articles/tinkering-with-web-components/)
 - [Eleventy 1.0](https://martinschneider.me/articles/eleventy-1-0/)
 - [Building Charts With CSS](https://martinschneider.me/articles/building-charts-with-css/)
-- [Meta Element: theme-color](https://martinschneider.me/articles/meta-element-theme-color/)
 <!-- MSME-POST-LIST:END -->
 
 ## The latest posts on dertagundich.de
