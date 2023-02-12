@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einer beitragsreichen Woche und anderen Herausforderungen](https://www.dertagundich.de/2023/02/12/von-einer-beitragsreichen-woche-und-anderen-herausforderungen/)
 - [Wandavision](https://www.dertagundich.de/2023/02/11/wandavision/)
 - [Thor – Love &amp; Thunder](https://www.dertagundich.de/2023/02/10/thor-love-thunder/)
 - [The Falcon And The Winter Soldier](https://www.dertagundich.de/2023/02/09/the-falcon-and-the-winter-soldier/)
 - [Jack Ryan, Staffel 3](https://www.dertagundich.de/2023/02/08/jack-ryan-staffel-3/)
-- [Slow Horses](https://www.dertagundich.de/2023/02/07/slow-horses/)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
