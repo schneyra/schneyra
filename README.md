@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von zu vielen Dingen](https://www.dertagundich.de/blog/2023/03/13/von-zu-vielen-dingen)
 - [Wie ich einen Kaffee am höchsten Punkt Lettlands trank](https://www.dertagundich.de/blog/2023/03/10/wie-ich-einen-kaffee-am-hochsten-punkt-lettlands-trank)
 - [Von einer schnellen Woche und einem fleißigen Wochenende](https://www.dertagundich.de/blog/2023/03/05/von-einer-schnellen-woche-und-einem-fleissigen-wochenende)
 - [Von einer guten Woche](https://www.dertagundich.de/blog/2023/02/27/von-einer-guten-woche)
 - [Zwanzig Jahre](https://www.dertagundich.de/blog/2023/02/26/zwanzig-jahre)
-- [Links gehen, rechts stehen](https://www.dertagundich.de/blog/2023/02/23/links-gehen-rechts-stehen)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
