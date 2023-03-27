@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von zahlreichen Besuchen in einem Fahrradladen](https://www.dertagundich.de/blog/2023/03/von-zahlreichen-besuchen-in-einem-fahrradladen)
 - [Jaques Berndorf: Eifel-Gold](https://www.dertagundich.de/blog/2023/03/jaques-berndorf-eifel-gold)
 - [Von fleißigen Tagen alleine zu Hause](https://www.dertagundich.de/blog/2023/03/von-fleissigen-tagen-alleine-zu-hause)
 - [Jacques Berndorf:  Eifel-Blues](https://www.dertagundich.de/blog/2023/03/jacques-berndorf-eifel-blues)
 - [Death Cab For Cutie, E-Werk, Köln](https://www.dertagundich.de/blog/2023/03/death-cab-for-cutie-e-werk-koln)
-- [Von zu vielen Dingen](https://www.dertagundich.de/blog/2023/03/von-zu-vielen-dingen)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
