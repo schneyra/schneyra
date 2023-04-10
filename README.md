@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von Gartenarbeit, einem Rahmen und Ostern](https://www.dertagundich.de/blog/2023/04/von-gartenarbeit-einem-rahmen-und-ostern)
 - [Jaques Berndorf: Eifel-Feuer](https://www.dertagundich.de/blog/2023/04/jaques-berndorf-eifel-feuer)
 - [Von schlaflosen Nächten, einer Segel-Regatta und einem Besuch in Bad Honnef](https://www.dertagundich.de/blog/2023/04/von-schlaflosen-nachten-einer-segel-regatta-und-einem-besuch-in-bad-honnef)
 - [Jacques Berndorf: Eifel-Schnee](https://www.dertagundich.de/blog/2023/03/jacques-berndorf-eifel-schnee)
 - [Jaques Berndorf: Eifel-Filz](https://www.dertagundich.de/blog/2023/03/jaques-berndorf-eifel-filz)
-- [Von zahlreichen Besuchen in einem Fahrradladen](https://www.dertagundich.de/blog/2023/03/von-zahlreichen-besuchen-in-einem-fahrradladen)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
