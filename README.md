@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einer Konferenz, Heizungsbauern und Aufräumarbeiten](https://www.dertagundich.de/blog/2023/04/von-einer-konferenz-heizungsbauern-und-aufraumarbeiten)
 - [Hugh Howey: Silo](https://www.dertagundich.de/blog/2023/04/hugh-howey-silo)
 - [Von einer kranken Woche](https://www.dertagundich.de/blog/2023/04/von-einer-kranken-woche)
 - [Von Gartenarbeit, einem Rahmen und Ostern](https://www.dertagundich.de/blog/2023/04/von-gartenarbeit-einem-rahmen-und-ostern)
 - [Jaques Berndorf: Eifel-Feuer](https://www.dertagundich.de/blog/2023/04/jaques-berndorf-eifel-feuer)
-- [Von schlaflosen Nächten, einer Segel-Regatta und einem Besuch in Bad Honnef](https://www.dertagundich.de/blog/2023/04/von-schlaflosen-nachten-einer-segel-regatta-und-einem-besuch-in-bad-honnef)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
