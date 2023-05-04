@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von Brüngsberg nach Wülscheid](https://www.dertagundich.de/blog/2023/05/von-brungsberg-nach-wulscheid)
 - [Hugh Howey: Exit](https://www.dertagundich.de/blog/2023/05/hugh-howey-exit)
 - [Von einer fremdbestimmten Woche und einem langen Wochenende](https://www.dertagundich.de/blog/2023/05/von-einer-fremdbestimmten-woche-und-einem-langen-wochenende)
 - [Hugh Howey: Level](https://www.dertagundich.de/blog/2023/04/hugh-howey-level)
 - [Von einer Konferenz, Heizungsbauern und Aufräumarbeiten](https://www.dertagundich.de/blog/2023/04/von-einer-konferenz-heizungsbauern-und-aufraumarbeiten)
-- [Hugh Howey: Silo](https://www.dertagundich.de/blog/2023/04/hugh-howey-silo)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
