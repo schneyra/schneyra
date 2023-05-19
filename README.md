@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Tom Clancy: Das Reich der Macht](https://www.dertagundich.de/blog/2023/05/tom-clancy-das-reich-der-macht)
 - [Von Motivation, Vorfreude und Vorbereitungen](https://www.dertagundich.de/blog/2023/05/von-motivation-vorfreude-und-vorbereitungen)
 - [Von Gartenarbeiten, einem Ende und einer Wanderung](https://www.dertagundich.de/blog/2023/05/von-gartenarbeiten-einem-ende-und-einer-wanderung)
 - [Von Brüngsberg nach Wülscheid](https://www.dertagundich.de/blog/2023/05/von-brungsberg-nach-wulscheid)
 - [Hugh Howey: Exit](https://www.dertagundich.de/blog/2023/05/hugh-howey-exit)
-- [Von einer fremdbestimmten Woche und einem langen Wochenende](https://www.dertagundich.de/blog/2023/05/von-einer-fremdbestimmten-woche-und-einem-langen-wochenende)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
