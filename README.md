@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einer Autofahrt, Strohwitwertum und Regalarbeiten](https://www.dertagundich.de/blog/2023/06/von-einer-autofahrt-strohwitwertum-und-regalarbeiten)
 - [Von einer Reise an die Nordsee](https://www.dertagundich.de/blog/2023/06/von-einer-reise-an-die-nordsee)
 - [Treason](https://www.dertagundich.de/blog/2023/06/treason)
 - [Hugh Howey: Sandtaucher](https://www.dertagundich.de/blog/2023/06/hugh-howey-sandtaucher)
 - [Von einer Abreise und Gartenarbeit an mehreren Orten](https://www.dertagundich.de/blog/2023/06/von-einer-abreise-und-gartenarbeit-an-mehreren-orten)
-- [Citadel](https://www.dertagundich.de/blog/2023/05/citadel)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
