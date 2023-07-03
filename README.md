@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einer anstrengenden Woche und Urlaubsreife](https://www.dertagundich.de/blog/2023/07/von-einer-anstrengenden-woche-und-urlaubsreife)
 - [No Time To Die](https://www.dertagundich.de/blog/2023/06/no-time-to-die)
 - [Von einer Schafsherde, einer Rückkehr und einem Legacy-Garten](https://www.dertagundich.de/blog/2023/06/von-einer-schafsherde-einer-ruckkehr-und-einem-legacy-garten)
 - [Der Legomann](https://www.dertagundich.de/blog/2023/06/der-legomann)
 - [Von einer Autofahrt, Strohwitwertum und Regalarbeiten](https://www.dertagundich.de/blog/2023/06/von-einer-autofahrt-strohwitwertum-und-regalarbeiten)
-- [Von einer Reise an die Nordsee](https://www.dertagundich.de/blog/2023/06/von-einer-reise-an-die-nordsee)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
