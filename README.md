@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [A.G. Riddle - Die Atlantis-Trilogie](https://www.dertagundich.de/blog/2023/07/a-g-riddle-die-atlantis-trilogie)
 - [Von unausgeschlafenen Tagen, Gartenarbeiten und Computerspielereien](https://www.dertagundich.de/blog/2023/07/von-unausgeschlafenen-tagen-gartenarbeiten-und-computerspielereien)
 - [Von einer anstrengenden Woche und Urlaubsreife](https://www.dertagundich.de/blog/2023/07/von-einer-anstrengenden-woche-und-urlaubsreife)
 - [No Time To Die](https://www.dertagundich.de/blog/2023/06/no-time-to-die)
 - [Von einer Schafsherde, einer Rückkehr und einem Legacy-Garten](https://www.dertagundich.de/blog/2023/06/von-einer-schafsherde-einer-ruckkehr-und-einem-legacy-garten)
-- [Der Legomann](https://www.dertagundich.de/blog/2023/06/der-legomann)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
