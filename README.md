@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Jack Ryan - The Final Season](https://www.dertagundich.de/blog/2023/08/jack-ryan-the-final-season)
 - [Von Geburtstagsfeiern und einem sonnigen Wochenende](https://www.dertagundich.de/blog/2023/08/von-geburtstagsfeiern-und-einem-sonnigen-wochenende)
 - [Frederick Forsyth: Der Schakal](https://www.dertagundich.de/blog/2023/08/frederick-forsyth-der-schakal)
 - [Get Smart](https://www.dertagundich.de/blog/2023/08/get-smart)
 - [Von einer Strohwitwer-Woche und einem neuen Zaun](https://www.dertagundich.de/blog/2023/08/von-einer-strohwitwer-woche-und-einem-neuen-zaun)
-- [Heart of Stone](https://www.dertagundich.de/blog/2023/08/heart-of-stone)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
