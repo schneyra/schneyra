@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einer schnellen Woche und einem sturmfreien Wochenende](https://www.dertagundich.de/blog/2023/09/von-einer-schnellen-woche-und-einem-sturmfreien-wochenende)
 - [Von Gartenarbeiten, einem Jubiläum und einem Besuch](https://www.dertagundich.de/blog/2023/09/von-gartenarbeiten-einem-jubilaum-und-einem-besuch)
 - [Von Heizungsmessungen, Rasenmähungen und Elternbesuchen](https://www.dertagundich.de/blog/2023/09/von-heizungsmessungen-rasenmahungen-und-elternbesuchen)
 - [Frederick Forsyth: Des Teufels Alternative](https://www.dertagundich.de/blog/2023/09/frederick-forsyth-des-teufels-alternative)
 - [Von Sport, Zahnuntersuchungen und Aufräumarbeiten](https://www.dertagundich.de/blog/2023/09/von-sport-zahnuntersuchungen-und-aufraumarbeiten)
-- [Von Heizungsentscheidungen und Geburtstagsfeierungen](https://www.dertagundich.de/blog/2023/08/von-heizungsentscheidungen-und-geburtstagsfeierungen)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
