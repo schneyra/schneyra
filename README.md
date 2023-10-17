@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Mark Greaney: The Grey Man - Unter Beschuss](https://www.dertagundich.de/blog/2023/10/mark-greaney-the-grey-man-unter-beschuss)
 - [Von Lernerei und Heckenschnitt](https://www.dertagundich.de/blog/2023/10/von-lernerei-und-heckenschnitt)
 - [Von Tagen in Spanien und einem Geburtstagswochenende](https://www.dertagundich.de/blog/2023/10/von-tagen-in-spanien-und-einem-geburtstagswochenende)
-- [Mark Greaney: The Grey Man](https://www.dertagundich.de/blog/2023/10/mark-greaney-the-grey-man)
+- [Mark Greaney: The Gray Man - Unter Killern](https://www.dertagundich.de/blog/2023/10/mark-greaney-the-grey-man)
 - [Robert Ludlum: Das Matarese-Mosaik](https://www.dertagundich.de/blog/2023/10/robert-ludlum-das-matarese-mosaik)
-- [Barcelona](https://www.dertagundich.de/blog/2023/10/barcelona)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
