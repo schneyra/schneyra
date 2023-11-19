@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von Lernereien, Blogarbeiten und annähernd ausreichend Schlaf](https://www.dertagundich.de/blog/2023/11/von-lernereien-blogarbeiten-und-annahernd-ausreichend-schlaf)
 - [Operation Mincemeat](https://www.dertagundich.de/blog/2023/11/operation-mincemeat)
 - [Von einer schlaflosen Woche und Gartenarbeiten](https://www.dertagundich.de/blog/2023/11/von-einer-schlaflosen-woche-und-gartenarbeiten)
 - [Meine Programme](https://www.dertagundich.de/blog/2023/11/meine-programme)
 - [Mark Greaney: The Gray Man - Operation Back Blast](https://www.dertagundich.de/blog/2023/11/mark-greaney-the-gray-man-operation-back-blast)
-- [Von Hamsterrädern und Gartenarbeiten](https://www.dertagundich.de/blog/2023/11/von-hamsterradern-und-gartenarbeiten)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
