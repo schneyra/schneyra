@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Robert Ludlum: Das Bourne Vermächtnis](https://www.dertagundich.de/blog/2023/12/robert-ludlum-das-bourne-vermachtnis)
 - [Von Kernbohrungen, Gehirnströmen und verregneten Fahrradtouren](https://www.dertagundich.de/blog/2023/12/von-kernbohrungen-gehirnstromen-und-verregneten-fahrradtouren)
 - [Von Heizungen, einem Eishockeyspiel und einem Pfadfinderwochenende](https://www.dertagundich.de/blog/2023/11/von-heizungen-einem-eishockeyspiel-und-einem-pfadfinderwochenende)
 - [Mark Greaney: The Gray Man – Tödliche Jagd](https://www.dertagundich.de/blog/2023/11/mark-greaney-the-gray-man-todliche-jagd)
 - [Ghosted](https://www.dertagundich.de/blog/2023/11/ghosted)
-- [Von Lernereien, Blogarbeiten und annähernd ausreichend Schlaf](https://www.dertagundich.de/blog/2023/11/von-lernereien-blogarbeiten-und-annahernd-ausreichend-schlaf)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
