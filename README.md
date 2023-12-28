@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Spider-Man: No Way Home](https://www.dertagundich.de/blog/2023/12/spider-man-no-way-home)
 - [Von Nostalgie und Weihnachten](https://www.dertagundich.de/blog/2023/12/von-nostalgie-und-weihnachten)
 - [Robert Ludlum: Der Bourne Betrug](https://www.dertagundich.de/blog/2023/12/robert-ludlum-der-bourne-betrug)
 - [Von einer Corona-Infektion und einem Heizungsumbau](https://www.dertagundich.de/blog/2023/12/von-einer-corona-infektion-und-einem-heizungsumbau)
 - [Von Farbenspiel, Elektro-Installationen und Minecraft](https://www.dertagundich.de/blog/2023/12/von-farbenspiel-elektro-installationen-und-minecraft)
-- [Robert Ludlum: Das Bourne Vermächtnis](https://www.dertagundich.de/blog/2023/12/robert-ludlum-das-bourne-vermachtnis)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
