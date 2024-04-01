@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einem sauberen Kühlschrank, einer gepflanzten Magnolie und einem Osterbesuch](https://www.dertagundich.de/blog/2024/04/von-einem-sauberen-kuhlschrank-einer-gepflanzten-magnolie-und-einem-osterbesuch)
 - [Clive Cussler: Hebt die Titanic](https://www.dertagundich.de/blog/2024/03/clive-cussler-hebt-die-titanic)
 - [Von positiven und negativen Seiten einer Bilanz](https://www.dertagundich.de/blog/2024/03/von-positiven-und-negativen-seiten-einer-bilanz)
 - [Clive Cussler: Im Todesnebel](https://www.dertagundich.de/blog/2024/03/clive-cussler-im-todesnebel)
 - [Clive Cussler: Der Todesflieger](https://www.dertagundich.de/blog/2024/03/clive-cussler-der-todesflieger)
-- [Von HTML und CSS, Terminen und Gartenarbeit](https://www.dertagundich.de/blog/2024/03/von-html-und-css-terminen-und-gartenarbeit)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
