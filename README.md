@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Frühstart: Kettcar, Luxor, Köln](https://www.dertagundich.de/blog/2024/04/fruhstart-kettcar-luxor-koln)
 - [Von vielen Erledigungen und einem Kindergeburtstag](https://www.dertagundich.de/blog/2024/04/von-vielen-erledigungen-und-einem-kindergeburtstag)
 - [Gran Turismo](https://www.dertagundich.de/blog/2024/04/gran-turismo)
 - [Clive Cussler: Eisberg](https://www.dertagundich.de/blog/2024/04/clive-cussler-eisberg)
 - [Von einem sauberen Kühlschrank, einer gepflanzten Magnolie und einem Osterbesuch](https://www.dertagundich.de/blog/2024/04/von-einem-sauberen-kuhlschrank-einer-gepflanzten-magnolie-und-einem-osterbesuch)
-- [Clive Cussler: Hebt die Titanic](https://www.dertagundich.de/blog/2024/03/clive-cussler-hebt-die-titanic)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
