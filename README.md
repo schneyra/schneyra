@@ -3,11 +3,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## Posts I've written recently on martinschneider.me
 <!-- MSME-POST-LIST:START -->
+- [Beyond Tellerrand 24](https://martinschneider.me/articles/beyond-tellerrand-24/)
 - [Two Point Zero](https://martinschneider.me/articles/two-point-zero/)
 - [Generating CSS With PostCSS and eleventy.before](https://martinschneider.me/articles/generating-css-with-postcss-and-eleventy-before/)
 - [Tinkering with Web Components – Part 2](https://martinschneider.me/articles/tinkering-with-web-components-part-2/)
 - [Fetching Webmentions With Netlify and Eleventy Edge](https://martinschneider.me/articles/fetching-webmentions-with-netlify-and-eleventy-edge/)
-- [New Year, new Eleventy](https://martinschneider.me/articles/new-year-new-eleventy/)
 <!-- MSME-POST-LIST:END -->
 
 ## The latest posts on dertagundich.de
