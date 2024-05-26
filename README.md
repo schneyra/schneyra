@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
-- [Von einem Konferenz und Zaunreinigungen](https://www.dertagundich.de/blog/2024/05/von-einem-konferenz-und-zaunreinigungen)
-- [Von einer Zaunrenovierung und allerlei Fleißigkeiten](https://www.dertagundich.de/blog/2024/05/von-einer-zaunrenovierung-und-allerlei-fleissigkeiten)
-- [Clive Cussler: Cyclop](https://www.dertagundich.de/blog/2024/05/clive-cussler-cyclop)
-- [Von einem Maibaum und Gartenarbeit](https://www.dertagundich.de/blog/2024/05/von-einem-maibaum-und-gartenarbeit)
-- [Clive Cussler: Tiefsee](https://www.dertagundich.de/blog/2024/04/clive-cussler-tiefsee)
+- [Von einer Autoreparatur und einem Arztbesuch](https://www.dertagundich.de/2024/05/von-einer-autoreparatur-und-einem-arztbesuch)
+- [Von einem Konferenz und Zaunreinigungen](https://www.dertagundich.de/2024/05/von-einem-konferenz-und-zaunreinigungen)
+- [Von einer Zaunrenovierung und allerlei Fleißigkeiten](https://www.dertagundich.de/2024/05/von-einer-zaunrenovierung-und-allerlei-fleissigkeiten)
+- [Clive Cussler: Cyclop](https://www.dertagundich.de/2024/05/clive-cussler-cyclop)
+- [Von einem Maibaum und Gartenarbeit](https://www.dertagundich.de/2024/05/von-einem-maibaum-und-gartenarbeit)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
