@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einer kurzen Arbeitswoche und natürlich ausführlichen Gartenarbeiten](https://www.dertagundich.de/2024/06/von-einer-kurzen-arbeitswoche-und-naturlich-ausfuhrlichen-gartenarbeiten)
 - [Operation Fortune](https://www.dertagundich.de/2024/06/operation-fortune)
 - [Von einer Autoreparatur und einem Arztbesuch](https://www.dertagundich.de/2024/05/von-einer-autoreparatur-und-einem-arztbesuch)
 - [Von einem Konferenz und Zaunreinigungen](https://www.dertagundich.de/2024/05/von-einem-konferenz-und-zaunreinigungen)
 - [Von einer Zaunrenovierung und allerlei Fleißigkeiten](https://www.dertagundich.de/2024/05/von-einer-zaunrenovierung-und-allerlei-fleissigkeiten)
-- [Clive Cussler: Cyclop](https://www.dertagundich.de/2024/05/clive-cussler-cyclop)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
