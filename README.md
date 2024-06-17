@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einer ereignislosen Woche und einem ausmistenden Wochenende](https://www.dertagundich.de/2024/06/von-einer-ereignislosen-woche-und-einem-ausmistenden-wochenende)
 - [Clive Cussler: Die Ajima-Verschwörung](https://www.dertagundich.de/2024/06/clive-cussler-die-ajima-verschworung)
 - [Von neuen Pflanzen und einem Finale am Zaun](https://www.dertagundich.de/2024/06/von-neuen-pflanzen-und-einem-finale-am-zaun)
 - [Clive Cussler: Das Alexandria-Komplott](https://www.dertagundich.de/2024/06/clive-cussler-das-alexandria-komplott)
 - [Von einer kurzen Arbeitswoche und natürlich ausführlichen Gartenarbeiten](https://www.dertagundich.de/2024/06/von-einer-kurzen-arbeitswoche-und-naturlich-ausfuhrlichen-gartenarbeiten)
-- [Operation Fortune](https://www.dertagundich.de/2024/06/operation-fortune)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
