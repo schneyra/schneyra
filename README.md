@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Clive Cussler: Operation Sahara](https://www.dertagundich.de/2024/07/clive-cussler-operation-sahara)
 - [Von einem Sommerfest und dem letzten Efeu](https://www.dertagundich.de/2024/06/von-einem-sommerfest-und-dem-letzten-efeu)
 - [Von wenig Schlaf und einer Zeltübernachtung](https://www.dertagundich.de/2024/06/von-wenig-schlaf-und-einer-zeltubernachtung)
 - [Von einer ereignislosen Woche und einem ausmistenden Wochenende](https://www.dertagundich.de/2024/06/von-einer-ereignislosen-woche-und-einem-ausmistenden-wochenende)
 - [Clive Cussler: Die Ajima-Verschwörung](https://www.dertagundich.de/2024/06/clive-cussler-die-ajima-verschworung)
-- [Von neuen Pflanzen und einem Finale am Zaun](https://www.dertagundich.de/2024/06/von-neuen-pflanzen-und-einem-finale-am-zaun)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
