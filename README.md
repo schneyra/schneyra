@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einer kranken Urlaubswoche und einem Campingwochenende](https://www.dertagundich.de/2024/08/von-einer-kranken-urlaubswoche-und-einem-campingwochenende)
 - [Von unrunden Dingen](https://www.dertagundich.de/2024/08/von-unrunden-dingen)
 - [Von Einsamkeit im Büro und eskalierenden Unkrautzupfungen](https://www.dertagundich.de/2024/07/von-einsamkeit-im-buro-und-eskalierenden-unkrautzupfungen)
 - [Kettcar, Roncalliplatz, Köln](https://www.dertagundich.de/2024/07/kettcar-roncalliplatz-koln)
 - [Von einer fleißigen Woche und einem schwitzigen Wochenende](https://www.dertagundich.de/2024/07/von-einer-fleissigen-woche-und-einem-schwitzigen-wochenende)
-- [Von schlechtem Schlaf und Kundendingen](https://www.dertagundich.de/2024/07/von-schlechtem-schlaf-und-kundendingen)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
