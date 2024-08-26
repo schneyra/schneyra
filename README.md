@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einem Schulstart und abgeschliffenen Fensterrahmen](https://www.dertagundich.de/2024/08/von-einem-schulstart-und-abgeschliffenen-fensterrahmen)
 - [Von letzten Übernachtungen und einem Geburtstagswochenende](https://www.dertagundich.de/2024/08/von-letzten-ubernachtungen-und-einem-geburtstagswochenende)
 - [Clive Cussler: Inka Gold](https://www.dertagundich.de/2024/08/clive-cussler-inka-gold)
 - [Von einer kranken Urlaubswoche und einem Campingwochenende](https://www.dertagundich.de/2024/08/von-einer-kranken-urlaubswoche-und-einem-campingwochenende)
 - [Von unrunden Dingen](https://www.dertagundich.de/2024/08/von-unrunden-dingen)
-- [Von Einsamkeit im Büro und eskalierenden Unkrautzupfungen](https://www.dertagundich.de/2024/07/von-einsamkeit-im-buro-und-eskalierenden-unkrautzupfungen)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
