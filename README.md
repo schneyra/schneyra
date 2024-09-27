@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Clive Cussler: Höllenflut](https://www.dertagundich.de/2024/09/clive-cussler-hollenflut)
 - [Von Garagenantriebserkundungen und finalen Fensterarbeiten](https://www.dertagundich.de/2024/09/von-garagenantriebserkundungen-und-finalen-fensterarbeiten)
 - [Trigger Warning](https://www.dertagundich.de/2024/09/trigger-warning)
 - [Von einer Mitgliederversammlung und Fensterarbeiten](https://www.dertagundich.de/2024/09/von-einer-mitgliederversammlung-und-fensterarbeiten)
 - [Clive Cussler: Schockwelle](https://www.dertagundich.de/2024/09/clive-cussler-schockwelle)
-- [Von Computerneuaufsetzungen und allerlei unglücklichen Umständen](https://www.dertagundich.de/2024/09/von-computerneuaufsetzungen-und-allerlei-unglucklichen-umstanden)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
