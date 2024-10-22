@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einer schlaflosen Woche und einem Holzlager](https://www.dertagundich.de/2024/10/von-einer-schlaflosen-woche-und-einem-holzlager)
 - [Von einem Burrito, Kellerregalen und einem Holzlager](https://www.dertagundich.de/2024/10/von-einem-burrito-kellerregalen-und-einem-holzlager)
 - [Von Gartenhausarbeiten und einer neuen Waschmaschine](https://www.dertagundich.de/2024/10/von-gartenhausarbeiten-und-einer-neuen-waschmaschine)
 - [Clive Cussler: Akte Atlantis](https://www.dertagundich.de/2024/10/clive-cussler-akte-atlantis)
 - [Von einer kranken Woche und einem Geburtstag](https://www.dertagundich.de/2024/09/von-einer-kranken-woche-und-einem-geburtstag)
-- [Clive Cussler: Höllenflut](https://www.dertagundich.de/2024/09/clive-cussler-hollenflut)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
