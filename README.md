@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von viel Arbeit, einem fleißigen Wochenende und vielen angefangenen Dingen](https://www.dertagundich.de/2024/11/von-viel-arbeit-einem-fleissigen-wochenende-und-vielen-angefangenen-dingen)
 - [Von einem neuen Auto, einem entsetzlichen Mietwagen und viel Zeit unter Menschen](https://www.dertagundich.de/2024/11/von-einem-neuen-auto-einem-entsetzlichen-mietwagen-und-viel-zeit-unter-menschen)
 - [Von einer Autosuche und losen Enden](https://www.dertagundich.de/2024/11/von-einer-autosuche-und-losen-enden)
 - [Clive Cussler: Im Zeichen der Wikinger](https://www.dertagundich.de/2024/11/clive-cussler-im-zeichen-der-wikinger)
 - [Von einer schnellen Woche und einem Bergwerksbesuch](https://www.dertagundich.de/2024/11/von-einer-schnellen-woche-und-einem-bergwerksbesuch)
-- [Von Kleinanzeigen und Gartenhausarbeiten](https://www.dertagundich.de/2024/10/von-kleinanzeigen-und-gartenhausarbeiten)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
