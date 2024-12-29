@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einer Weihnachtswoche](https://www.dertagundich.de/2024/12/von-einer-weihnachtswoche)
 - [Von Einpark-Übungen und einer Auseinandersetzung mit unliebsamen Untermietern](https://www.dertagundich.de/2024/12/von-einpark-ubungen-und-einer-auseinandersetzung-mit-unliebsamen-untermietern)
 - [Von einer vollen Woche, Weihnachtsfeiern und Pokémon](https://www.dertagundich.de/2024/12/von-einer-vollen-woche-weihnachtsfeiern-und-pokemon)
 - [Von einer lehrreichen Woche und halbwegs gelösten Enden](https://www.dertagundich.de/2024/12/von-einer-lehrreichen-woche-und-halbwegs-gelosten-enden)
 - [Clive Cussler: Die Troja-Mission](https://www.dertagundich.de/2024/12/clive-cussler-die-troja-mission)
-- [The Good Cop](https://www.dertagundich.de/2024/12/the-good-cop)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
