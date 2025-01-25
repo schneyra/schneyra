@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Red Eye](https://www.dertagundich.de/2025/01/red-eye)
 - [Missing You](https://www.dertagundich.de/2025/01/missing-you)
 - [Von Ereignislosigkeit, Rolläden und einem Sonntagsausflug](https://www.dertagundich.de/2025/01/von-ereignislosigkeit-rolladen-und-einem-sonntagsausflug)
 - [Zero Dark Thirty](https://www.dertagundich.de/2025/01/zero-dark-thirty)
 - [Von schlaflosen Nächten, einem Ausflug nach Düsseldorf und Löchern im Boden](https://www.dertagundich.de/2025/01/von-schlaflosen-nachten-einem-ausflug-nach-dusseldorf-und-lochern-im-boden)
-- [Von einem Jahreswechsel und einem neuen Netzwerkschrank](https://www.dertagundich.de/2025/01/von-einem-jahreswechsel-und-einem-neuen-netzwerkschrank)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
