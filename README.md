@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einem schnellen Hausbau und einem kranken Wochenende](https://www.dertagundich.de/2025/02/von-einem-schnellen-hausbau-und-einem-kranken-wochenende)
 - [Black Doves](https://www.dertagundich.de/2025/02/black-doves)
 - [Von Renovierungsarbeiten und Minecraft-Let&#39;s-Plays](https://www.dertagundich.de/2025/02/von-renovierungsarbeiten-und-minecraft-let-s-plays)
 - [Von einer lustlosen Woche und einem Heimatbesuch](https://www.dertagundich.de/2025/01/von-einer-lustlosen-woche-und-einem-heimatbesuch)
 - [Red Eye](https://www.dertagundich.de/2025/01/red-eye)
-- [Missing You](https://www.dertagundich.de/2025/01/missing-you)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
