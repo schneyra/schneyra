@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von Schwesterngeburtstagen und Gartenarbeiten](https://www.dertagundich.de/2025/03/von-schwesterngeburtstagen-und-gartenarbeiten)
 - [Von einer unspektakulären Woche](https://www.dertagundich.de/2025/03/von-einer-unspektakularen-woche)
 - [Von einem sonnigen Wochenende und Grillwurst](https://www.dertagundich.de/2025/03/von-einem-sonnigen-wochenende-und-grillwurst)
 - [Pokémon: Mewtwo Strikes Back](https://www.dertagundich.de/2025/03/pokemon-mewtwo-strikes-back)
 - [Von einer arbeitsreichen Woche und Senftüten](https://www.dertagundich.de/2025/03/von-einer-arbeitsreichen-woche-und-senftuten)
-- [Clive Cussler: Der Fluch des Khan](https://www.dertagundich.de/2025/02/clive-cussler-der-fluch-des-khan)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
