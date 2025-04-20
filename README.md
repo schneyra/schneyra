@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Reacher, Staffel 3](https://www.dertagundich.de/2025/04/reacher-staffel-3)
 - [Von Teams und einem Großelternbesuch](https://www.dertagundich.de/2025/04/von-teams-und-einem-grosselternbesuch)
 - [Von einer vollen Woche und einem produktiven Gartenwochenende](https://www.dertagundich.de/2025/04/von-einer-vollen-woche-und-einem-produktiven-gartenwochenende)
 - [Madame Web](https://www.dertagundich.de/2025/04/madame-web)
 - [Thees Uhlmann, Tanzbrunnen, Köln](https://www.dertagundich.de/2025/04/thees-uhlmann-tanzbrunnen-koln)
-- [Von Aufräumarbeiten und einem müden Konzert](https://www.dertagundich.de/2025/03/von-aufraumarbeiten-und-einem-muden-konzert)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
