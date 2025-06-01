@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Marcus Wiebusch, Artheater, Köln](https://www.dertagundich.de/2025/06/marcus-wiebusch-artheater-koln)
 - [Kaleidoscope](https://www.dertagundich.de/2025/05/kaleidoscope)
 - [3 Body Problem](https://www.dertagundich.de/2025/05/3-body-problem)
 - [Von anstrenger Arbeit, einer Terrassentür und einer Hausumrandung](https://www.dertagundich.de/2025/05/von-anstrenger-arbeit-einer-terrassentur-und-einer-hausumrandung)
 - [Inside Man: Most Wanted](https://www.dertagundich.de/2025/05/inside-man-most-wanted)
-- [Von einem anstrengenden Wochenstart und Hausumrandungsarbeiten](https://www.dertagundich.de/2025/05/von-einem-anstrengenden-wochenstart-und-hausumrandungsarbeiten)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
