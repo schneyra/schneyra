@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einer heißen Woche und einem neuen Sandkasten](https://www.dertagundich.de/2025/07/von-einer-heissen-woche-und-einem-neuen-sandkasten)
 - [Von einer ereignislosen Woche und einer Wald-Rallye](https://www.dertagundich.de/2025/07/von-einer-ereignislosen-woche-und-einer-wald-rallye)
 - [Von anstrengenden Wochentagen und realistischen Wochenend-Plänen](https://www.dertagundich.de/2025/06/von-anstrengenden-wochentagen-und-realistischen-wochenend-planen)
 - [Von einem Hamsterrad und einem warmen Wochenende](https://www.dertagundich.de/2025/06/von-einem-hamsterrad-und-einem-warmen-wochenende)
 - [Von einer sowohl schlaf- als auch snacklosen Woche](https://www.dertagundich.de/2025/06/von-einer-sowohl-schlaf-als-auch-snacklosen-woche)
-- [Von einer anstrengenden Woche und losen Enden](https://www.dertagundich.de/2025/06/von-einer-anstrengenden-woche-und-losen-enden)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
