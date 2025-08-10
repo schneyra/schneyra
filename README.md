@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einem ersten Arbeitstag und einem Werkzeugkasten](https://www.dertagundich.de/2025/08/von-einem-ersten-arbeitstag-und-einem-werkzeugkasten)
 - [The Old Guard 2](https://www.dertagundich.de/2025/08/the-old-guard-2)
 - [Von einem Elternbesuch im Hunsrück](https://www.dertagundich.de/2025/08/von-einem-elternbesuch-im-hunsruck)
 - [Von einem letzten Arbeitstag, Urlaubsdingen und einem Kabelkanal](https://www.dertagundich.de/2025/07/von-einem-letzten-arbeitstag-urlaubsdingen-und-einem-kabelkanal)
 - [Von halben Arbeitstagen, Zaunreparaturen und Dokumenten](https://www.dertagundich.de/2025/07/von-halben-arbeitstagen-zaunreparaturen-und-dokumenten)
-- [Von einem Offboarding und Anstrengungen](https://www.dertagundich.de/2025/07/von-einem-offboarding-und-anstrengungen)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
