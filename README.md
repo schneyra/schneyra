@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Departure, Staffel 1](https://www.dertagundich.de/2025/08/departure-staffel-1)
 - [Von einer heißen Woche und einem Kindergeburtstag](https://www.dertagundich.de/2025/08/von-einer-heissen-woche-und-einem-kindergeburtstag)
 - [The Accountant 2](https://www.dertagundich.de/2025/08/the-accountant-2)
 - [The Accountant](https://www.dertagundich.de/2025/08/the-accountant)
 - [Von einem ersten Arbeitstag und einem Werkzeugkasten](https://www.dertagundich.de/2025/08/von-einem-ersten-arbeitstag-und-einem-werkzeugkasten)
-- [The Old Guard 2](https://www.dertagundich.de/2025/08/the-old-guard-2)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
