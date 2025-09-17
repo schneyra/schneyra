@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einem Eishockey-Spiel und einem Wahlsonntag](https://www.dertagundich.de/2025/09/von-einem-eishockey-spiel-und-einem-wahlsonntag)
 - [The Ministry Of Ungentlemanly Warfare](https://www.dertagundich.de/2025/09/the-ministry-of-ungentlemanly-warfare)
 - [Von einem Waschanlagenbesuch, Fahrradübungen und Kirmes](https://www.dertagundich.de/2025/09/von-einem-waschanlagenbesuch-fahrradubungen-und-kirmes)
 - [Ballard](https://www.dertagundich.de/2025/09/ballard)
 - [Von einem Sommerfest und Abenteuern in LEGO City](https://www.dertagundich.de/2025/09/von-einem-sommerfest-und-abenteuern-in-lego-city)
-- [Von neuer Arbeit, neuem Speicher und Holzbasteleien](https://www.dertagundich.de/2025/08/von-neuer-arbeit-neuem-speicher-und-holzbasteleien)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
