@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von teuren Zigaretten, Notwendigkeiten und einem kurzen Ausflug](https://www.dertagundich.de/2025/10/von-teuren-zigaretten-notwendigkeiten-und-einem-kurzen-ausflug)
 - [Thees Uhlmann, Harmonie, Bonn](https://www.dertagundich.de/2025/10/thees-uhlmann-harmonie-bonn)
 - [Von einem Geburtstag und Kellerregalen](https://www.dertagundich.de/2025/10/von-einem-geburtstag-und-kellerregalen)
 - [Von einer schnellen Woche und einem Regal-Schnäppchen](https://www.dertagundich.de/2025/10/von-einer-schnellen-woche-und-einem-regal-schnappchen)
 - [Von einem Zahnarztbesuch und eine LEGO-lastigen Wochenende](https://www.dertagundich.de/2025/09/von-einem-zahnarztbesuch-und-eine-lego-lastigen-wochenende)
-- [Von einem Eishockey-Spiel und einem Wahlsonntag](https://www.dertagundich.de/2025/09/von-einem-eishockey-spiel-und-einem-wahlsonntag)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
