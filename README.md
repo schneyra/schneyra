@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einem einer Trennung und einem Wochenende in Aschaffenburg](https://www.dertagundich.de/2025/12/von-einem-einer-trennung-und-einem-wochenende-in-aschaffenburg)
 - [Von einer terminreichen Woche](https://www.dertagundich.de/2025/11/von-einer-terminreichen-woche)
 - [Von St. Martin, Bockwurst und Therapien](https://www.dertagundich.de/2025/11/von-st-martin-bockwurst-und-therapien)
 - [Netzwerk-Status](https://www.dertagundich.de/2025/11/netzwerk-status)
 - [Von Halsschmerzen und einem ausgeruhten Wochenende](https://www.dertagundich.de/2025/11/von-halsschmerzen-und-einem-ausgeruhten-wochenende)
-- [Von einer unspannenden Woche, einem Familientreffen und Aufräumarbeiten](https://www.dertagundich.de/2025/11/von-einer-unspannenden-woche-einem-familientreffen-und-aufraumarbeiten)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
