@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einem schwarzen Bildschirm und einem Heimatbesuch](https://www.dertagundich.de/2026/01/von-einem-schwarzen-bildschirm-und-einem-heimatbesuch)
 - [Von einer weiteren anstrengenden Woche und einem Wochenendausflug](https://www.dertagundich.de/2026/01/von-einer-weiteren-anstrengenden-woche-und-einem-wochenendausflug)
 - [Von huntert Prozent, Schnee und Erledigungen](https://www.dertagundich.de/2026/01/von-huntert-prozent-schnee-und-erledigungen)
 - [Von einem neuen Jahr](https://www.dertagundich.de/2026/01/von-einem-neuen-jahr)
 - [Von Lustlosigkeit und Weihnachten](https://www.dertagundich.de/2025/12/von-lustlosigkeit-und-weihnachten)
-- [Linkin Park - The Emptiness Machine](https://www.dertagundich.de/2025/12/linkin-park-the-emptiness-machine)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
