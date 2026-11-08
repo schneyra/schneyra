@@ -12,11 +12,11 @@ You should visit my website 👨🏼‍💻  [martinschneider.me](https://martin
 
 ## The latest posts on dertagundich.de
 <!-- DTUI-POST-LIST:START -->
+- [Von einer friedlichen Woche und einem vollen Wochenende](https://www.dertagundich.de/2026/11/von-einer-friedlichen-woche-und-einem-vollen-wochenende)
 - [Von einer arbeitsamen Woche und einem vergnüglichen Wochenende](https://www.dertagundich.de/2026/11/von-einer-arbeitsamen-woche-und-einem-vergnuglichen-wochenende)
 - [Von einem 3D-Drucker und einem Festungs-Urlaub](https://www.dertagundich.de/2026/10/von-einem-3d-drucker-und-einem-festungs-urlaub)
 - [Sicario](https://www.dertagundich.de/2026/10/sicario)
 - [Von drei Wochen, einem Geburtstag und Alltag](https://www.dertagundich.de/2026/10/von-drei-wochen-einem-geburtstag-und-alltag)
-- [Von zersägten Akustikpanelen und einem Minecraft-Server](https://www.dertagundich.de/2026/09/von-zersagten-akustikpanelen-und-einem-minecraft-server)
 <!-- DTUI-POST-LIST:END -->
 
 (The list of blogposts is generated with the [blog-post-workflow by gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)).
